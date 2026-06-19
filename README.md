@@ -17,4 +17,4 @@
 (Add your GitHub Pages link here)
 
 ## 📌 Author
-Swaraj (Cybersecurity Intern)
+Swaraj Londhe (Cybersecurity Intern)
