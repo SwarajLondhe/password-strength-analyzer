@@ -14,7 +14,7 @@
 - JavaScript
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+(https://github.com/SwarajLondhe/password-strength-analyzer)
 
 ## 📌 Author
 Swaraj Londhe (Cybersecurity Intern)
